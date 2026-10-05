@@ -1,0 +1,8 @@
+{
+  "name": "Chalo - AI Real-World Outing & Experience Planner",
+  "description": "Chalo turns 'What should we do today?' into a personalized, realistic plan for Indian cities using AI, Places, and real-world constraints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
